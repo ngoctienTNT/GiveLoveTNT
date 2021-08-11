@@ -1,0 +1,15 @@
+D:\Code\GiveLove\GiveLove\obj\Debug\GiveLove.csproj.AssemblyReference.cache
+D:\Code\GiveLove\GiveLove\obj\Debug\GiveLove.Form1.resources
+D:\Code\GiveLove\GiveLove\obj\Debug\GiveLove.Properties.Resources.resources
+D:\Code\GiveLove\GiveLove\obj\Debug\GiveLove.csproj.GenerateResource.cache
+D:\Code\GiveLove\GiveLove\obj\Debug\GiveLove.csproj.CoreCompileInputs.cache
+D:\Code\GiveLove\GiveLove\bin\Debug\GiveLove.exe.config
+D:\Code\GiveLove\GiveLove\bin\Debug\GiveLove.exe
+D:\Code\GiveLove\GiveLove\bin\Debug\GiveLove.pdb
+D:\Code\GiveLove\GiveLove\obj\Debug\GiveLove.exe
+D:\Code\GiveLove\GiveLove\obj\Debug\GiveLove.pdb
+D:\Code\GiveLove\GiveLove\obj\Debug\GiveLove.Form2.resources
+D:\Code\GiveLove\GiveLove\obj\Debug\GiveLove.Form3.resources
+D:\Code\GiveLove\GiveLove\obj\Debug\GiveLove.Form4.resources
+D:\Code\GiveLove\GiveLove\obj\Debug\Interop.WMPLib.dll
+D:\Code\GiveLove\GiveLove\obj\Debug\GiveLove.csproj.ResolveComReference.cache
