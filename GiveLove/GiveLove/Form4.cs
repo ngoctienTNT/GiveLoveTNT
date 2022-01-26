@@ -65,7 +65,7 @@ namespace GiveLove
             if (KTCancel)
             {
                 MessageBox.Show("Bạn muốn thoát thật sao?\nKhông muốn trả lời mình à? :((", "Bạn không muốn trả lời mình à! :((", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
-                e.Cancel = true;
+                e.Cancel = true; 
             }
         }
     }
